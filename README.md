@@ -1,6 +1,6 @@
 # Backdoor Scanner
 
-Tool for find malicious content and folder on linux server.
+Tool to find malicious content and folder on linux server.
 You can use a cronjob to run this tool periodically for scanning.
 
 ## Screenshot
